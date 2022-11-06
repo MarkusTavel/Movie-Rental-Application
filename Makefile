@@ -1,0 +1,17 @@
+up:
+	docker compose up
+
+down:
+	docker compose down
+
+start:
+	docker compose up -d
+
+build:
+	docker compose build --no-cache
+
+clean:
+	mvn clean package -DskipTests
+
+local:
+	mvn spring-boot:run

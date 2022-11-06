@@ -1,0 +1,36 @@
+---
+- name: film 1
+  releaseDate: '2021-10-28'
+  info:
+    director: Camera Guy
+    actors: Villainous Guy, Scream Queen
+    genre: horror
+    summary: very spooky movie
+- name: film 2
+  releaseDate: '2021-12-01'
+  info:
+    director: Movie Maker
+    actors: Action Hero, Damsel-in Distress
+    genre: action
+    summary: very good movie
+- name: film 3
+  releaseDate: '2010-11-03'
+  info:
+    director: Jack Smith
+    actors: Romantic Guy, Romantic Girl
+    genre: romantic comedy
+    summary: very cheesy movie
+- name: film 4
+  releaseDate: '1995-10-15'
+  info:
+    director: Grand Old Man
+    actors: Historical Hero, Historical Villan
+    genre: historical drama
+    summary: very educational movie
+- name: film 5
+  releaseDate: '2021-10-02'
+  info:
+    director: Team Captain
+    actors: Unsung Hero ,Supporting Manager
+    genre: sports
+    summary: very inspirational movie
