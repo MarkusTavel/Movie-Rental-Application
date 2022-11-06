@@ -48,7 +48,7 @@ Other API endpoints are in src/main/java/controller/MovieController.java
 
 ## Database/MongoExpress
 
-To view/use database open MongoExpress **localhost:8081**
+To view/use database open MongoExpress **localhost:8081** on browser
 
 To create new database: 
 * Use "Movies from json/yaml" button at **localhost:8080** and database is created automatically. 
