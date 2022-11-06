@@ -27,7 +27,7 @@ make start
 Or
 ```
 docker compose start
-
+```
 Other commands and shortcuts available at "Makefile"
 
 **Application**
